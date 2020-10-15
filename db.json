@@ -1,0 +1,13 @@
+{
+  "responses":
+    {
+      "status": "string",
+      "amount": 0,
+      "currency": "string",
+      "customerMsisdn": "string",
+      "transactionId": "string",
+      "externalTransactionId": "string",
+      "createdAt": "2020-10-15T20:47:38.361Z",
+      "debit": "string"
+    }
+}
